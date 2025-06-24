@@ -7,7 +7,7 @@ Este é meu portfólio pessoal feito com HTML e CSS. Aqui você encontra meus pr
 - CSS3
 
 ## Como visualizar
-Abra o arquivo `index.html` no navegador ou acesse via GitHub Pages (se publicado).
+ https://murilodeabreu.github.io/Repositorio_Murilo/
 
 ## Autor
 Murilo de abreu - https://github.com/MuriloDeAbreu
